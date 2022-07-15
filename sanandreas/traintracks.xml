@@ -1,0 +1,19 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<train_tracks version = "1">
+	<train_track
+		filename="common:/data/levels/gta5/tracks.dat"
+		trainConfigName="freight_group"
+		isPingPongTrack="false"
+		stopsAtStations="true"
+		MPstopsAtStations="true"
+		speed="15"
+		brakingDist="20"/>
+	<train_track
+		filename="common:/data/levels/gta5/tracks3.dat"
+		trainConfigName="metro_group"
+		isPingPongTrack="false"
+		stopsAtStations="true"
+		MPstopsAtStations="true"
+		speed="15"
+		brakingDist="20"/>
+</train_tracks>
